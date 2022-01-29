@@ -1,0 +1,45 @@
+body{
+  font-family: Garnet Light;
+  color: #6b696e;
+}
+
+.SidebarContent{
+  margin-top: 20px;
+
+  .content{
+  margin-top: 20px;
+}
+}
+@font-face {
+  font-family: "Garnet Regular";
+  src: local("Garnet"),
+    url("./fonts/Garnet/Garnett_Regular.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Garnet Bold";
+  src: local("Garnet"),
+    url("./fonts/Garnet/Garnett_Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Garnet Light";
+  src: local("Garnet"),
+    url("./fonts/Garnet/Garnett_Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Garnet Semibold";
+  src: local("Garnet"),
+    url("./fonts/Garnet/Garnett_Semibold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Garnet Medium";
+  src: local("Garnet"),
+    url("./fonts/Garnet/Garnett_Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Mirador Extrabold";
+  src: local("Garnet"),
+    url("./fonts/Mirador/Mirador-ExtraBold.ttf") format("truetype");
+}
